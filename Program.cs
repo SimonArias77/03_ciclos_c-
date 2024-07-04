@@ -127,6 +127,8 @@ do
 
 
 
+
+
 // 6. Escribe un programa que solicite al usuario una contraseña. Si la contraseña ingresada no
 // es "secreta", sigue pidiendo al usuario que ingrese la contraseña hasta que sea correcta
 // usando un ciclo while.
